@@ -3,7 +3,7 @@ package com.company;
 /**
  * This exception class is thrown to check if the input entered is valid.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class InvalidInputException extends Exception
 {
