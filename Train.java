@@ -5,7 +5,7 @@ package com.company;
  * second class capacity for the train car. It also keeps track of the time for the train to reach the next station.
  * It is initialized to contain a list of stations it has to reach.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class Train {
     private int firstCapacity;//A variable that indicates the max number of first class seats on the Train
