@@ -6,7 +6,7 @@ import java.util.LinkedList;
  * This is a queue class named PassengerQueue that inherits all the properties of the LinkedList class. It has
  * all the functions of a queues(enqueues, dequeue, peek, isEmpty).
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 
 public class PassengerQueue extends LinkedList<Object>
