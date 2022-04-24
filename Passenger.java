@@ -4,7 +4,7 @@ package com.company;
  * This class represents the Passenger object that has an integer id, integer arrivalTime, and boolean that indicates whether
  * it is a first class passenger.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class Passenger {
     private static int idCounter=0;//A counter used to keep track of the passengers' ID generated
