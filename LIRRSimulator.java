@@ -5,7 +5,7 @@ import java.util.Scanner;
  * This class represents the overall simulator for LIRR. It is where the users get to interact with the program to
  * collect statistics such as the total number to Passengers served and their average wait time at each station.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class LIRRSimulator
 {
