@@ -5,7 +5,7 @@ package com.company;
  * Passengers, along with two instances of BooleanSource to generate the probability of a Passenger arriving each
  * minute. This class also keeps track of the total number of embarked passengers and their wait time.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class Station
 {
