@@ -4,7 +4,7 @@ package com.company;
  * This class generates a probability for the Passenger's arrival at a certain station and checks whether there
  * would be a new Passenger arriving at the station.
  *
- * @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ * @author  Tracy Yip 
  */
 public class BooleanSource
 {
